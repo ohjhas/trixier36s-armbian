@@ -1,3 +1,8 @@
-# [EatPrilosec/R36S-Armbian is my testing repo](https://github.com/EatPrilosec/R36S-Armbian)
+# trixier36s-armbian
+This is armbian, and its for the r36s. The repo has been modified to make trixie (13) builds.
 
-# [Releases are at R36S-Stuff/R36S-Armbian](https://github.com/R36S-Stuff/R36S-Armbian/releases/latest) 
+# Release?
+not yet.
+
+# Credits
+@EatPrilosec , without him this wouldnt exist, all thanks to him.
